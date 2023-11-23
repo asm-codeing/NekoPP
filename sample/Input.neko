@@ -1,6 +1,10 @@
 # [형식]
 # 냐옹
 
-# 냐옹 => INPUT
+# 냐옹 => STRING INPUT
+# 냐아옹 => INT INPUT
+# 냐아아옹 => FLOAT INPUT
 
 먁 냐옹
+먁먁 냐아옹
+먁먁먁 냐아아옹
