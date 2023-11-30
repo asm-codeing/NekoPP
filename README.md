@@ -23,14 +23,14 @@
 git clone https://github.com/asm-coding/NekoPP.git
 
 cd ./NekoPP
-sh ./build.sh
+sh ./build.sh 코드경로
 ```
 * Windows
 ```bat
 git clone https://github.com/asm-coding/NekoPP.git
 
 cd .\NekoPP\bin
-.\NekoPP.exe
+.\NekoPP.exe 코드경로
 ```
 
 <br>
