@@ -29,7 +29,7 @@ sh ./build.sh
 ```bat
 git clone https://github.com/asm-coding/NekoPP.git
 
-cd .\bin
+cd .\NekoPP\bin
 .\NekoPP.exe
 ```
 
