@@ -9,6 +9,9 @@
 
 ## **문서**
 1. [Neko++는...](./docs/NekoPP.md)
+1. [코드 실행](./docs/코드실행.md)
+1. [문법](./docs/문법.md)
+1. [변수](./docs/변수.md)
 1. [출력문](./docs/출력문.md)
 1. [입력문](./docs/입력문.md)
 
@@ -21,6 +24,13 @@ git clone https://github.com/asm-coding/NekoPP.git
 
 cd ./NekoPP
 sh ./build.sh
+```
+* Windows
+```bat
+git clone https://github.com/asm-coding/NekoPP.git
+
+cd .\bin
+.\NekoPP.exe
 ```
 
 <br>
